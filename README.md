@@ -1,9 +1,10 @@
 # gitea-runner-docker-compose
+
 Containerized gitea runner for self hosted gitea instance
 
 ## Setup instructions
 
-You'll first have to have a VM with docker engine installed. I used ubuntu. Follow the instructions at https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
+This guide assumes that you already have a self hosted gitea server. You'll first have to have a VM with docker engine installed. I used ubuntu. Follow the instructions at https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 
 ### Clone the repo
 git clone this repo
