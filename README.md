@@ -16,7 +16,7 @@ cd gitea-runner-docker-compose
 
 ### Set environment variables
 
-Rename `sample.env` to `.env` and replace the values with yours
+Rename `[sample.env](sample.env)` to `.env` and replace the values with yours
 
 ```
 INSTANCE_URL=https://gitea.fqdn
